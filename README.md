@@ -18,7 +18,7 @@ The system continuously prints the real-time clock output via UART to PuTTY seri
 ## 🚀 Features
 - I2C communication with EEPROM (AT24C32)
 - Read real-time clock (hours, minutes, seconds)
-- UART output to serial monitor (PuTTY / TeraTerm)
+- UART output to serial monitor (PuTTY)
 - Support for BCD <-> Decimal conversion for DS1307
 - Modular code structure for easy reuse
 
