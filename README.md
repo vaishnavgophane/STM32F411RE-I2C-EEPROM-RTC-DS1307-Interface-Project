@@ -56,7 +56,7 @@ The system continuously prints the real-time clock output via UART to PuTTY seri
 This project was developed using:
 - STM32CubeIDE
 - STM32 HAL Drivers
-- USB VCP or UART2 for serial monitor
+- UART2 for serial monitor
 
 Baudrate: **115200**
 
