@@ -1,3 +1,13 @@
+## 🧑‍💻 Author
+
+**Vaishnav Gophane**  
+Embedded Firmware & IoT Developer
+<br>
+Pune, India.
+
+📫 **Connect:** [Gmail](mr.vaishnavgophane@gmail.com) • [GitHub](https://github.com/vaishnavgophane) • [LinkedIn](https://www.linkedin.com/in/vaishnav-gophane-417686284/)
+
+---
 # STM32F411RE – I2C EEPROM (AT24C32) + RTC (DS1307) Project
 
 This project demonstrates interfacing the HW-111 module containing **AT24C32 EEPROM** and **DS1307 RTC** with an **STM32 Nucleo-F411RE** board using **I2C communication**.  
