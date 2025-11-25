@@ -71,7 +71,6 @@ int __io_putchar(int ch)
 void EEPROM_WriteByte(uint16_t EEPROM_Address, uint8_t data)
 {
     uint8_t buffer[3];
-  //  I2C_HandleTypeDef *hi2c;
     buffer[0] = (uint8_t)(EEPROM_Address >> 8);   // High byte of address
     buffer[1] = (uint8_t)(EEPROM_Address & 0xFF); // Low byte of address
     buffer[2] = data; 								// Data to write
@@ -342,3 +341,4 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+
